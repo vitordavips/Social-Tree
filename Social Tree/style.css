@@ -1,0 +1,49 @@
+
+button{
+    margin-top: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 10px 100px 10px 100px;    
+    color: rgb(107, 107, 107);
+    background-color:rgb(201, 198, 198);
+    border-radius: 5px;
+    cursor: pointer; 
+}
+
+
+div{
+    margin: 0px;
+    width: 100%;
+}
+
+
+#img-perfil{
+    display: flex;
+    justify-content: center;
+}
+#perfil{
+    height: 120px;
+    width:130px;
+    border-radius: 50%;
+    /*margin-left: 600px;*/
+    
+}
+
+#icones{
+    margin-top: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+}
+#instagram{
+    margin-right: 30px;
+}
+
+#linkedin{
+    margin-right: 30px;
+}
+
+#twitch{
+    margin-right: 30px;
+}
